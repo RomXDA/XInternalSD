@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name" translatable="false">XInternalSD</string>
+    <string name="app_description">Changer emplacement de la carte microSD</string>
+    <string name="app_settings">Réglages</string>
+    <string name="custom_internal_sdcard_path">Emplacement personnalisé de la carte microSD interne</string>
+    <string name="internal_sdcard_path">Emplacement de la carte microSD interne</string>
+    <string name="enable_for_apps">Activer pour des applications</string>
+    <string name="enable_for_all_apps">Activer pour toutes les applications</string>
+    <string name="disable_for_apps">Désactiver pour des applications</string>
+    <string name="enter_internal_sdcard_path">Saisir l'emplacement de la carte microSD interne</string>
+    <string name="external_sdcard_full_access">Accès complet à la carte microSD externe</string>
+    <string name="include_system_apps">Inclure les applis système</string>
+    <string name="reboot_required">Redémarrage du smartphone requis pour applications des changements.</string>
+    <string name="show_app_icon">Afficher les icones des apllicationsShow app icon</string>
+
+</resources>
